@@ -66,11 +66,11 @@ body {
 svg.icon {
   width: 50px;
   height: 50px;
-  fill: #f08952;
+  fill: #815AEFFF;
 }
 
 .frase b {
-  color: #f08952;
+  color: #815AEFFF;
 }
 
 [tabindex="-1"]:focus {
@@ -163,7 +163,7 @@ sup {
 }
 
 a {
-  color: #f08952;
+  color: #815AEFFF;
   text-decoration: none;
   background-color: transparent;
 }
@@ -11007,7 +11007,7 @@ p {
   display: block;
   width: 25px;
   height: 1.5px;
-  background-color: #F85C70;
+  background-color: #815AEFFF;
 }
 
 .breadcrumb {
@@ -11500,15 +11500,15 @@ pre .code {
 }
 
 .footer {
-  background: #f08952;
+  background: #815AEFFF;
 }
 
 .header {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header-Nanny.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header-Nanny.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../imgs/header-Nanny2.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../imgs/header-Nanny2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
