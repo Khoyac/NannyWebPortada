@@ -11507,8 +11507,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../imgs/header-Nanny2.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../imgs/header-Nanny2.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../imgs/header-firma.png);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../imgs/header-firma.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11556,6 +11556,7 @@ pre .code {
   .header {
     height: 500px;
     min-height: 500px;
+    background: url("../imgs/fondomvl.png");
   }
   .header .social-icons {
     margin: auto;
